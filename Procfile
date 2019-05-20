@@ -1,1 +1,1 @@
-web: bin/luke-test-abc
+web: bin/heroku-test
