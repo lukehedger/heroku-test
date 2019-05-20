@@ -1,1 +1,1 @@
-web: server
+web: bin/luke-test-abc
